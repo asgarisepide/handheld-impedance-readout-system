@@ -9,9 +9,10 @@ Low-cost handheld reconfigurable impedimetric readout platform designed for gas 
 ### Arduino DUE
 ![Hardware](PCB_2.jpg)
 
-### PCB Layout
+### PCB Layout in Altium Designer
 ![PCB Layout](PCB_Altuim_1.jpg)
 
+### 3D-PCB Layout in Altium Designer
 ![3D PCB View](PCB_Altuim_2.jpg)
 
 ## Responsibilities
