@@ -4,6 +4,8 @@ Low-cost handheld reconfigurable impedimetric readout platform designed for gas 
 
 ## Project Highlights
 
+![Hardware](PAH_Detector.jpg)
+
 ![Hardware](PCB_2.jpg)
 
 ![PCB Layout](PCB_Altuim_1.jpg)
