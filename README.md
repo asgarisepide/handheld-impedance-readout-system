@@ -6,7 +6,7 @@ Low-cost handheld reconfigurable impedimetric readout platform designed for gas 
 ### Gas Sensor Readout IC Schematic(PAH Detection)
 ![Hardware](PAH.png)
 
-### Gas Sensor Readout IC (PAH Detection)
+### Gas Sensor Readout PCB (PAH Detection)
 ![Hardware](PAH_Detector.jpg)
 
 ### Arduino DUE
