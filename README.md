@@ -32,7 +32,7 @@ Low-cost handheld reconfigurable impedimetric readout platform designed for gas 
 ## Features
 
 - Portable handheld platform
-- Reconfigurable gain / sensing paths
+- Reconfigurable gain/sensing paths
 - Low-cost implementation
 - Suitable for gas sensing and impedance measurements
 - Real-time data acquisition
