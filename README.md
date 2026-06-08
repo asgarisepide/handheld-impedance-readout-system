@@ -1,7 +1,7 @@
 # Portable Impedance Readout System
 
 Low-cost handheld reconfigurable impedimetric readout platform designed for gas detection and sensing applications.
-
+The excitation signal is a Sine wave superimposed on a DC staircase signal.
 ## Project Highlights
 ### Gas Sensor Readout IC Schematic(PAH Detection)
 ![Hardware](ROIC.png)
