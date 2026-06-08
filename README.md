@@ -39,4 +39,4 @@ Low-cost handheld reconfigurable impedimetric readout platform designed for gas 
 
 ## Tools
 
-Altium Designer | Embedded Systems | Analog Hardware | PCB Design
+Altium Designer | Embedded Systems | Analog Hardware | PCB Design | Cadence Virtuoso
