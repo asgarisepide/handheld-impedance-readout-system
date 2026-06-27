@@ -3,6 +3,7 @@
 Low-cost handheld reconfigurable impedimetric readout platform designed for gas detection and sensing applications.
 
 The excitation signal is a Sine wave superimposed on a DC staircase signal.
+Then, the AC excitation signal and the response signal are read by the MCU to measure the impedance.
 ## Project Highlights
 ### Gas Sensor Readout IC Schematic(PAH Detection)
 
