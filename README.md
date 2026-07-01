@@ -20,7 +20,7 @@ Dynamic gain control selects the optimal feedback resistor to avoid saturation
 
 ### Challenges Addressed:
 
-Signal saturation over dynamic DC levels by using adaptive Sallen-Key band pass filters.
+Signal saturation over dynamic DC levels by using adaptive Sallen-Key bandpass filters.
 
 ### Outcome:
 
