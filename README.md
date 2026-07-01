@@ -6,7 +6,7 @@ The excitation signal is a 10mV peak-to-peak Sine wave superimposed on a DC stai
 Then, the AC excitation signal and the response signal are read by the MCU to measure the impedance.
 
 
-System Overview:
+### System Overview:
 
 Combines a low-amplitude AC sine wave with a DC staircase bias for impedance sensing
 
@@ -18,11 +18,11 @@ Adaptive Bandpass filter removes DC and boosts AC
 
 Dynamic gain control selects the optimal feedback resistor to avoid saturation
 
-Challenges Addressed:
+### Challenges Addressed:
 
 Signal saturation over dynamic DC levels by using adaptive Sallen-Key band pass filters.
 
-Outcome:
+### Outcome:
 
 Discrete analog system extracts real-time impedance magnitude and phase
 
