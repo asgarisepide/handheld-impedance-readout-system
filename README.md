@@ -10,7 +10,7 @@ Then, the AC excitation signal and the response signal are read by the MCU to me
 
 Combines a low-amplitude AC sine wave with a DC staircase bias for impedance sensing
 
-Arduino Due used with:DAC0 for AC sine wave, DAC1 for DC staircase
+Arduino Due used with: DAC0 for AC sine wave, DAC1 for DC staircase
 
 TIA converts sensor current to voltage
 
@@ -37,7 +37,7 @@ Enables full-range impedance profiling across staircase bias levels
 ### Gas Sensor Readout PCB (PAH Detection)
 
 PCB designed in Altium Designer.
-
+![Hardware](IDE.png)
 
 ![Hardware](PAH_Detector.jpg)
 
