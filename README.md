@@ -35,9 +35,11 @@ Enables full-range impedance profiling across staircase bias levels
 ![Hardware](ROIC.png)
 
 ### Gas Sensor Readout PCB (PAH Detection)
+Here's the IDE sensor:
+
+![Hardware](IDE.png)
 
 PCB designed in Altium Designer.
-![Hardware](IDE.png)
 
 ![Hardware](PAH_Detector.jpg)
 
